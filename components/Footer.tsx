@@ -3,7 +3,7 @@
 export default function Footer() {
   return (
     <section>
-      <div className="flex flex-col gap-4 lg:px-6 mt-16">
+      <div className="flex flex-col gap-4 lg:px-6 mt-4">
         <p className="text-sm text-start text-muted-foreground">
           Based on{" "}
           <a className="text-foreground" href="https://brittanychiang.com">
